@@ -6,3 +6,6 @@ Here I've used readline-sync library.
 
 This app iterates the question and the user's answer to the answer stored.
 I like reading books that's why I made the quiz on books and their authors.
+
+
+[Click here to play](https://replit.com/@codeankitcode/quiz-app2#index.js)
